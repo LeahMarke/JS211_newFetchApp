@@ -1,0 +1,7 @@
+# don't include .env in Github repo
+.env
+
+# don't include the node_modules
+node_modules
+
+.DS_Store
